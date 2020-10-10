@@ -8,7 +8,7 @@ pygame.mixer.init()
 # Iniciando o Pygame
 pygame.init()
 
-pygame.mixer.music.load('EXPython#021.mp3')
+pygame.mixer.music.load('21.mp3')
 pygame.mixer.music.play()
 pygame.event.wait()
 
